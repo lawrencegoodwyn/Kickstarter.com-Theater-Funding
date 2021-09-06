@@ -14,9 +14,10 @@
 ## Analysis and Challenges
 	This analysis looked at every type of kickstarter categorized under the category theater, which encompasses plays and other kickstarters under the realm of theater, and compared the outcomes of successful, failed, and canceled theater kickstarters based on their counts versus the month the kickstarter was initiated. Additionally, this analysis contains info regarding funding goals for plays specifically, and whether or not their outcomes were successful, failed, or canceled. 
 
-/Users/tylergoodwyn/Desktop/Analysis Projects/Module 1/Exercise 1 Crowdfunding Analysis/Challenge/Resources/Screen Shot 2021-09-01 at 3.05.08 PM.png
+[Theater Outcomes Based on Launch Date](https://github.com/lawrencegoodwyn/kickstarter-analysis/blob/33ab026d7bdfafa9725b58a31429d666c74fbc50/Screen%20Shot%202021-09-01%20at%203.05.08%20PM.png)
 
-/Users/tylergoodwyn/Desktop/Analysis Projects/Module 1/Exercise 1 Crowdfunding Analysis/Challenge/Resources/Screen Shot 2021-09-01 at 3.05.22 PM.png
+[Outcomes Based on Goal](https://github.com/lawrencegoodwyn/kickstarter-analysis/blob/33ab026d7bdfafa9725b58a31429d666c74fbc50/Screen%20Shot%202021-09-01%20at%203.05.22%20PM.png)
+
 
 	Some of the challenges that occurred when dealing with the data were an awareness of what filters were in place while analyzing the dat, using the necessary and correct amount of criteria for the "countifs" function, and an awareness as to the spelling of words contained in the data. 
 	To overcome these challenges, I simply kept tweaking the data until I was able to get an end result that looked similar to the information provided to me for reference. I think that the formula used, prudent filtering, and spelling are all super important for me and will be quite necessary for me to be cognizant of in the future and to stay aware of for future projects. Especially because I was not necessarily encountering syntax errors, but mainly the data was not returning the analysis I I was looking for.

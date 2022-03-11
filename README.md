@@ -1,4 +1,4 @@
-# Kickstarter Funding for "Theater Projects" & "Play Projects" Analysis
+# Kickstarter.com Funding for "Theater Projects" & "Play Projects" Analysis
 
 ## Overview 
 1. Visualization of Theater Projects Based by Launch Date

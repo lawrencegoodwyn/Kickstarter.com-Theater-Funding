@@ -14,14 +14,21 @@ Kickstarters are a common way to generate funding for numerous types of events. 
 ## Analysis and Challenges
 The analysis loooks at every type of kickstarter categorized under the category "theater", which encompasses "plays" and other kickstarters in the realm of "theater", and compared the outcomes of successful, failed, and canceled "theater" kickstarters based on the counts of each versus the month the kickstarter was initiated. Additionally, this analysis contains info regarding funding goals for plays specifically, and whether or not their outcomes were successful, failed, or canceled. 
 
-<b>"Theater" Outcomes Based on Launch Date</b> <p>
+<b>"Theater" Outcome Counts</b><p>
+<img src = "https://user-images.githubusercontent.com/89168119/157952593-b5c15a95-d133-4036-84de-c1b33f445247.png" width = "400"></p>
+															    
+
+<b>"Theater" Outcomes Based on Launch Date</b><p>
 <img src = "https://user-images.githubusercontent.com/89168119/157936378-925dbeb4-b31f-4981-b0f6-60bd92cc0443.png" width = "450"></p>
 
+<b> "Plays" Outcomes Based on Goal</b><p>
+<img src = "https://user-images.githubusercontent.com/89168119/157953298-26db8f62-b850-43ae-b4f0-7e8c139b7435.png" width = "400"></p>
 
 <b>"Plays" Outcomes Based on Goal</b> 
 <p>
 <img src = "https://user-images.githubusercontent.com/89168119/157950017-4f70b767-4950-43f3-ac5e-5344d44a0853.png" width = "600"> </p>
 
+-	A pivot table was input to clearly and quickly filter the data down to month and outcome type. 
 -	The "countifs" function provided much of the work here to divy up the data amongst the 150+ theater kickstarter types.
 	
 
